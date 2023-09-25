@@ -1,5 +1,5 @@
 # FluoreSense
-1. Main file - FluoreSense.ipynb Jupyter notebook. 
+1. Main file - FluoreSense.ipynb Jupyter notebook. Source code included.
 
 2. Demo samples - FPSampleA.csv, FPsampleB.csv, FPsampleC.csv
 
