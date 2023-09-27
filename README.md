@@ -1,4 +1,10 @@
 # FluoreSense
+
+**Program Features**
+Capable of identifying fluorescent proteins based on absorbance readings. For data formatting, refer to the **Included Files** section below.
+Limitations: can only identify GFP, CFP and EGFP
+
+**Included files**
 1. Main file - FluoreSense.ipynb Jupyter notebook. Source code included.
 
 2. Demo samples - FPSampleA.csv, FPsampleB.csv, FPsampleC.csv
